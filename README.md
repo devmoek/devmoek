@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Michael Myers** also known as **@devmoek**
-- 👀 I’m interested in **Web Development** and **Web Design**
+- 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **JS** and **Web Design**
 - 💞️ I’m looking to **collaborate** on creating / designing websites projects
 - 📫 You can reach me by **[email](mailto:moekdeveloper@gmail.com)**, **[Twitter](https://twiter.com/devmoek)**, **[Instagram](https://instagram.com/devmoek)**, **[Blog](https://devmoek.medium.com)**, **[YouTube Channel](https://www.youtube.com/channel/UCJ7a90E4ZflmScpRxfyyeCw)**, **[Discord Channel](https://discord.gg/qyDVEa2J)** 
