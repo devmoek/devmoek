@@ -1,8 +1,8 @@
-- 👋 Hi, I’m **Michael Myers** also known as [**@devmoek**](https://twitter.com/devmoek)
-- 👀 I’m interested in **Web Development**
-- 🌱 I’m currently learning **JS** and **Shopify Theme Development**
+- 👋 Hi, I’m **Michael Myers** also known as [**@moek**](https://twitter.com/devmoek)
+- 👀 I’m interested in **Web Development and Shopify**
+- 🌱 I’m currently learning **JS** and **React**
 - 💞️ I’m looking to **collaborate** on creating websites 
-- 📫 You can reach me by **[email](mailto:info@devmoek.com)**, **[Twitter](https://twiter.com/devmoek)**, **[Instagram](https://instagram.com/devmoek)**, **[Blog](https://blog.devmoek.com)**, **[YouTube Channel](https://www.youtube.com/channel/UCJ7a90E4ZflmScpRxfyyeCw)**, **[Discord Channel](https://discord.gg/qyDVEa2J)** 
+- 📫 You can reach me by **[email](mailto:info@devmoek.com)**, **[Twitter](https://twiter.com/devmoek)**, **[Instagram](https://instagram.com/moekishappy)**, **[Blog](https://devmoek.com)**, **[YouTube Channel](https://www.youtube.com/channel/UCJ7a90E4ZflmScpRxfyyeCw)**
 
 <!---
 devmoek/devmoek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
