@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Michael Myers** also known as [**@moek**](https://twitter.com/devmoek)
+- 👋 Hi, I’m **Michael Myers**
 - 👀 I’m interested in **Web Development and Shopify**
 - 🌱 I’m currently learning **JS** and **React**
 - 💞️ I’m looking to **collaborate** on creating websites 
